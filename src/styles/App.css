@@ -2,7 +2,6 @@
   margin: 0;
   text-decoration: none;
   color: #0033a0;
-  /* width: 100vw; */
 }
 
 .home {
@@ -61,6 +60,7 @@
 @media screen and (min-width: 1000px) {
   .home button:hover {
     background-color: #00aec7;
+    border: none;
     color: white;
   }
 }
